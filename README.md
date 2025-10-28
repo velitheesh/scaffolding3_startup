@@ -3,8 +3,19 @@
 
 # Screenshots of the outputs
 
+## Test Setup Success
+![Loading](Test_setup.png)
 ## Screenshot 1
-Screenshot1.png
+![Book1](Screenshot1.png)
+## Screenshot 2
+![Book2](Screenshot2.1.png)
+![Book2](Screenshot2.2.png)
+## Screenshot 3
+![Book3](Screenshot3.png)
+## Screenshot 4
+![Book4](Screenshot4.png)
+
+
 
 #
 Welcome to the warm-up assignment for CSE 510! This assignment will help you get familiar with text preprocessing, web development with Flask, and working with Project Gutenberg texts before diving into the main Shannon Information Theory assignment.
