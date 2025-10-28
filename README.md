@@ -1,9 +1,12 @@
 # CSE 510 Warm-Up Assignment: Text Preprocessing Web Service
 
 
-## Screenshots of the outputs
+# Screenshots of the outputs
 
-# Screenshot 1
+## Screenshot 1
+Screenshot.png
+
+#
 Welcome to the warm-up assignment for CSE 510! This assignment will help you get familiar with text preprocessing, web development with Flask, and working with Project Gutenberg texts before diving into the main Shannon Information Theory assignment.
 
 ## 🎯 Assignment Overview
